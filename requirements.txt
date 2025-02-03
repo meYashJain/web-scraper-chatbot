@@ -1,0 +1,10 @@
+beautifulsoup4
+requests
+langchain_community
+langchain-text-splitters
+chromadb
+sentence-transformers
+groq
+python-dotenv
+langchain-huggingface
+python-dotenv   

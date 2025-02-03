@@ -1,0 +1,55 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment directories
+env/
+venv/
+
+# IDE configurations (optional)
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# Coverage reports (for pytest, coverage.py, etc.)
+.coverage
+.coverage.*
+nosetests.xml
+coverage.xml
+*.cover
+
+# Dist directories
+build/
+dist/
+
+# Python egg info directories
+*.egg-info/
+
+# Packaging directories
+.eggs/
+*.egg
+
+# PyInstaller (if using for packaging)
+*.spec
+
+# Django stuff (if applicable)
+*.sqlite3
+*.db
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
